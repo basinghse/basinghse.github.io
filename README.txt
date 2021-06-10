@@ -1,2 +1,2 @@
 Portfolio for Baljinder Singh.
-Please view for a showcase of my projects, experience, education and more.
+Please view to learn more about myself and my projects, experience and education.
