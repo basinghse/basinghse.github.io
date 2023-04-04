@@ -3,7 +3,7 @@
 # Personal Portfolio
 
 Thanks for visiting the Personal Portfolio for Baljinder Singh.
-Click [here](https://basinghse.github.io/) to view the portfolio.
+Click [here](https://basinghse.github.io/) to access the website.
 
 ## Sections
 
